@@ -1,5 +1,6 @@
 Netlify Link :-https://prakhar-jain.netlify.app/
 
+
 #APP FEATURES AND FUNCTIONS:-
 
 TMDB API Integration: Utilizes the TMDB (The Movie Database) API for fetching movie data.
@@ -23,6 +24,9 @@ Bootstrap Integration: Incorporates Bootstrap for styling components and enhanci
 Toast Notifications: Utilizes toast notifications for displaying user-friendly messages, such as login prompts or error alerts.
 
 
+
+
+
 #TO RUN THIS PROJECT IN YOUR DEVICE:-
 
 Clone the Repository: Start by cloning the project repository from the version control system (e.g., GitHub) to your local machine.
@@ -44,6 +48,9 @@ View Movie Details: Click on any movie card to view detailed information about t
 Protected Routes: Test protected routes by attempting to access pages that require authentication, such as movie details. If not already logged in, you'll be redirected to the login page.
 
 Log Out: Finally, test the logout functionality by clicking the logout button. This should clear the current user's session and redirect them to the login page.
+
+
+
 
 #ADD DEPENDENCIES:-
 axios: Used for making HTTP requests to fetch movie data from the TMDB API.
